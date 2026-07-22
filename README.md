@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Rachel! 👋😊
 
 <!--
 **rachelsaini28/rachelsaini28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏫 Third-year Undergraduate @ Rutgers University
+## 💻 Double Majoring in Computer Science + Data Science
+## 📊 Aspiring Data Scientist and Machine Learning Enthusiast
+
+
+## 🛠️ Tech Stack
+Languages: ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png)
