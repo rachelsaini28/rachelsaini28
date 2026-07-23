@@ -1,4 +1,45 @@
-# Hi, I'm Rachel! 👋😊
+## Hi, I'm Rachel! 👋😊
+
+🏫 Third-Year Undergraduate @ Rutgers University  
+💻 Double Majoring in Computer Science + Data Science  
+📊 Aspiring Data Scientist and Machine Learning Enthusiast
+
+
+### 👩‍💻 Featured Projects:
+1. Animal Crossing: New Sortings - Recursive Sorting and Searching Assignment
+   
+2. Farm Simulation - JUnit Testing Assignment
+   
+
+### 🛠️ Tech Stack:
+Languages:  
+- Java
+- Python
+- R
+
+Libraries:  
+- Swing
+- Pandas
+- NumPy
+- Sci-kit Learn
+- Matplotlib
+- Seaborn
+- dplyr
+
+Tools:  
+- Visual Studio Code
+- Jupyter Notebook
+- Git
+- Github
+
+
+<!--### 📊 Github Stats:-->
+
+
+### 📧 Reach Out To Me:
+Email: rachelsaini06@gmail.com  
+LinkedIn: [linkedin.com/in/rachel-saini/]()
+
 
 <!--
 **rachelsaini28/rachelsaini28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +55,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🏫 Third-year Undergraduate @ Rutgers University
-## 💻 Double Majoring in Computer Science + Data Science
-## 📊 Aspiring Data Scientist and Machine Learning Enthusiast
-
-
-## 🛠️ Tech Stack
-Languages: ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png)
