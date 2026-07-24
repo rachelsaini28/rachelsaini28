@@ -40,8 +40,7 @@ Tools:
 <img src = "vscode_github.png" height = 28 alt = "Visual Studio Code">
 ![RStudio](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4C4C4C?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8930a6?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8930a6?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- ![Git](https://img.shields.io/badge/Git-EB7325?style=for-the-badge&logo=git&logoColor=white)-->
 <!--![VSCode](https://img.shields.io/badge/VSCode-198CD7?style=for-the-badge&logo=rstudioide&logoColor=white)-->
