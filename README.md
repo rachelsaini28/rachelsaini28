@@ -11,9 +11,10 @@
 1. [**Animal Crossing: New Sortings**](https://github.com/rachelsaini28/Animal-Crossing-New-Sortings-Public) - Recursive Sorting and Searching Assignment  
    Developed a course assignment to challenge students on Merge Sort, Quick Sort, and Recursive Binary Search. Students are required to complete and debug the algorithms and can visualize each output in an _Animal Crossing_-based GUI.
    - **Tech Stack:** Java, Swing, Visual Studio Code, GitHub, GitHub Desktop
+
 2. [**Farm Simulation**](https://github.com/rachelsaini28/Farm-Simulation-Public) - JUnit Testing Assignment  
    Designed an assignment for students to learn and apply JUnit testing. Students are provided a _Stardew Valley_-inspired GUI to visualize the program's methods and are tasked to write 3 JUnit tests that ensure the simulation runs as expected.  
-   - **Tech Stack:** Java, Swing, Visual Studio Code, GitHub, GitHub Desktop
+   - **Tech Stack:** Java, Swing, JUnit, Visual Studio Code, GitHub, GitHub Desktop
    
 &nbsp; 
 ### 🛠️ Tech Stack:
