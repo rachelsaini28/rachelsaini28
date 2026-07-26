@@ -1,12 +1,13 @@
-## Hi, I'm Rachel! 👋😊
+## Hello, I'm Rachel! 👋😊
 
 💠 Third-Year Undergraduate @ Rutgers University  
 💠 Double Majoring in Computer Science + Data Science  
 💠 Aspiring Data Scientist and Machine Learning Enthusiast  
 
+I am a Data Science Research Intern at the Rutgers Institute For Health, where I use R to analyze survey data to inform policy and support efforts on children and parental loss. I am also expanding my knowledge on machine learning through Cornell University's Break Through Tech program.
 
+I enjoy uncovering different patterns and applying feature engineering to explore and prepare data for modeling. What I strive to do in my career is to use data science and machine learning to make significant, real-world impacts that help people.
 
-&nbsp; 
 ### 👩‍💻 Featured Projects:
 1. [**Animal Crossing: New Sortings**](https://github.com/rachelsaini28/Animal-Crossing-New-Sortings-Public) - Recursive Sorting and Searching Assignment  
    Developed a course assignment to challenge students on Merge Sort, Quick Sort, and Recursive Binary Search. Students are required to complete and debug the algorithms and can visualize each output in an _Animal Crossing_-based GUI.
@@ -16,7 +17,6 @@
    Designed an assignment for students to learn and apply JUnit testing. Students are provided a _Stardew Valley_-inspired GUI to visualize the program's methods and are tasked to write 3 JUnit tests that ensure the simulation runs as expected.  
    - **Tech Stack:** Java, Swing, JUnit, Visual Studio Code, GitHub, GitHub Desktop
    
-&nbsp; 
 ### 🛠️ Tech Stack:
 Languages:  
 &nbsp;  
@@ -49,7 +49,6 @@ Tools:
 
 <!--### 📊 Github Stats:-->
 
-&nbsp; 
 ### 📧 Reach Out To Me:
 Email: rachelsaini06@gmail.com  
 LinkedIn: [linkedin.com/in/rachel-saini/]()
