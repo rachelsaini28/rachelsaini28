@@ -23,6 +23,7 @@ Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img src = "sql_github.png" height = 28 alt = "SQL">
 <!--[![My Skills](https://skillicons.dev/icons?i=java,python,r)](https://skillicons.dev)  -->
 
   
